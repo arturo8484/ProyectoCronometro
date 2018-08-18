@@ -1,0 +1,8 @@
+E:\OneDrive-2018-08-17\cronometro\cronometro\bin\Debug\cronometro.exe
+E:\OneDrive-2018-08-17\cronometro\cronometro\bin\Debug\cronometro.pdb
+E:\OneDrive-2018-08-17\cronometro\cronometro\obj\Debug\cronometro-.csprojResolveAssemblyReference.cache
+E:\OneDrive-2018-08-17\cronometro\cronometro\obj\Debug\cronometro.Form1.resources
+E:\OneDrive-2018-08-17\cronometro\cronometro\obj\Debug\cronometro.Properties.Resources.resources
+E:\OneDrive-2018-08-17\cronometro\cronometro\obj\Debug\cronometro-.csproj.GenerateResource.Cache
+E:\OneDrive-2018-08-17\cronometro\cronometro\obj\Debug\cronometro.exe
+E:\OneDrive-2018-08-17\cronometro\cronometro\obj\Debug\cronometro.pdb

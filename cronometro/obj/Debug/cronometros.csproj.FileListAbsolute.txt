@@ -1,0 +1,2 @@
+E:\OneDrive-2018-08-17\cronometro\cronometro\obj\Debug\cronometro.exe
+E:\OneDrive-2018-08-17\cronometro\cronometro\obj\Debug\cronometro.pdb
